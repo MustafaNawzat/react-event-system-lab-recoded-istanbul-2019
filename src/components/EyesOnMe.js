@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 
-export default class E extends Component{
+export default class EyesOnMe extends Component{
 
     enteringPass = () => {
 
