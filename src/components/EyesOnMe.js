@@ -10,7 +10,7 @@ export default class EyesOnMe extends Component{
     }
     render() {
         return (
-            <input type="password" onKeyUp={this.enteringPass}/>
+            <button></button>
         )
       }
 }
