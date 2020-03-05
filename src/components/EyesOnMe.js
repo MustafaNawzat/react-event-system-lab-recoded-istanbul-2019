@@ -1,16 +1,16 @@
 // Code EyesOnMe Component Here
-import React, { Component } from 'react';
+// import React, { Component } from 'react';
 
 
-export default class EyesOnMe extends Component{
+// export default class EyesOnMe extends Component{
 
-    enteringPass = () => {
+//     enteringPass = () => {
 
-        console.log("Entering password...")
-    }
-    render() {
-        return (
-            <button ></button>
-        )
-      }
-}
+//         console.log("Entering password...")
+//     }
+//     render() {
+//         return (
+//             <button ></button>
+//         )
+//       }
+// }
